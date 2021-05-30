@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RakeshPotnuru
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning app development with flutter
 - 📫 How to reach me - rakeshpotnuru321@gmail.com
 
 <!---
