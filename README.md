@@ -51,6 +51,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to compile different languages source code files?](https://dev.to/rakeshpotnuru/how-to-compile-different-languages-source-code-files-a7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
