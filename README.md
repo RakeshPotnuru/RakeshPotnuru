@@ -40,13 +40,14 @@
 <br>
 <br>
 <br>
+<br>
 
 <details>
   <summary>Most used languages</summary>
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshPotnuru&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss&layout=compact" />
 </details>
 
-<br>
+---
 
 ### Latest Blog Posts
 
