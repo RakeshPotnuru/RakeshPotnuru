@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RakeshPotnuru
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning java.
-- 📫 How to reach me - rakeshpotnuru321@gmail.com
+- 📫 How to reach me - rakesh@itsrakesh.xyz
 
 ### Connect with me:
 
