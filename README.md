@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakesh</h1>
-<h3 align="center">I am a CS undergraduate and pursuing my B.Tech. in Computer Science and Engineering. I am passionate about Development and love to learn new things.</h3>
+<h3 align="center">I am a CS undergraduate and pursuing my B.Tech. in Computer Science and Engineering. I am passionate about Technology and love to learn new things.</h3>
 
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning java.
