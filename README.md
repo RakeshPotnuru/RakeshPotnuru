@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @RakeshPotnuru
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakesh</h1>
+<h3 align="center">I am a CS undergraduate and pursuing my B.Tech. in Computer Science and Engineering. I am passionate about Development and love to learn new things.</h3>
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning java.
 - 📫 How to reach me - rakesh@itsrakesh.xyz
@@ -14,6 +15,8 @@
 ---
 
 [![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakeshPotnuru&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshPotnuru&theme=tokyonight&hide_border=true" alt="rakesh github streak" /></p>
 
 ### Languages and Tools:
 
