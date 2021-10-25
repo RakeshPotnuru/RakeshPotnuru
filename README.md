@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning java.
-- 📫 How to reach me - rakesh@itsrakesh.xyz
+- 📫 How to reach me - rakesh@itsrakesh.co
 
 ### Connect with me:
 
