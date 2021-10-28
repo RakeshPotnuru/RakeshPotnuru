@@ -56,6 +56,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to host your website on Azure?](https://dev.to/rakeshpotnuru/how-to-host-your-website-on-azure-5h11)
 - [How to compile different languages source code files?](https://dev.to/rakeshpotnuru/how-to-compile-different-languages-source-code-files-a7g)
 <!-- BLOG-POST-LIST:END -->
 
