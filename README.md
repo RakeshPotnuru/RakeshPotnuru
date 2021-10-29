@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" target="_blank" alt="itsrakesh.xyz" width="22px" src="https://i.im.ge/2021/10/20/oS5hgx.png" />](http://itsrakesh.xyz)
+[<img align="left" target="_blank" alt="itsrakesh.co" width="22px" src="https://i.im.ge/2021/10/20/oS5hgx.png" />](https://itsrakesh.co)
 [<img align="left" target="_blank" alt="rakesh_at_tweet | Twitter" width="22px" src="https://i.im.ge/2021/10/20/oSdS79.png" />](https://twitter.com/rakesh_at_tweet)
 [<img align="left" target="_blank" alt="rakesh | LinkedIn" width="22px" src="https://i.im.ge/2021/10/20/oS7HTY.png" />](https://www.linkedin.com/in/rakesh-potnuru-067a8b1b1/)
 
