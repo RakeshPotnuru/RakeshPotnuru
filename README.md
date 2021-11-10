@@ -1,8 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakesh</h1>
 <h3 align="center">I am a CS undergraduate and pursuing my B.Tech. in Computer Science and Engineering. I am passionate about Technology and love to learn new things.</h3>
 
-- 👀 I’m interested in new technologies
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning DSA, DBMS.
 - 📫 How to reach me - rakesh@itsrakesh.co
 
 ### Connect with me:
@@ -15,9 +14,8 @@
 
 ---
 
-[![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakeshPotnuru&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshPotnuru&theme=tokyonight&hide_border=true" alt="rakesh github streak" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=RakeshPotnuru&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshPotnuru&theme=tokyonight&hide_border=true" alt="rakesh's github streak" width="48%" >
 
 ### Languages and Tools:
 
@@ -61,6 +59,7 @@
 - [How to compile different languages source code files?](https://dev.to/rakeshpotnuru/how-to-compile-different-languages-source-code-files-a7g)
 <!-- BLOG-POST-LIST:END -->
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RakeshPotnuru.RakeshPotnuru)
 <!---
 RakeshPotnuru/RakeshPotnuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
