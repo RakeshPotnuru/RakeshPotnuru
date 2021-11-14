@@ -54,6 +54,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazing Emmet shortcuts to code faster](https://dev.to/rakeshpotnuru/amazing-emmet-shortcuts-to-code-faster-353k)
 - [How to put website online under 10 minutes?](https://dev.to/rakeshpotnuru/how-to-put-website-online-under-10-minutes-3m2g)
 - [How to host your website on Azure?](https://dev.to/rakeshpotnuru/how-to-host-your-website-on-azure-5h11)
 - [How to compile different languages source code files?](https://dev.to/rakeshpotnuru/how-to-compile-different-languages-source-code-files-a7g)
