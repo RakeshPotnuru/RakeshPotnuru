@@ -54,11 +54,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide to make your first react package](https://dev.to/itsrakesh/guide-to-make-your-first-react-package-2gd0)
 - [Two new react frameworks](https://dev.to/itsrakesh/two-new-react-frameworks-3hg7)
 - [Web design principles with examples](https://dev.to/itsrakesh/web-design-principles-1p2k)
 - [Different ways to connect react frontend and node backend](https://dev.to/itsrakesh/different-ways-to-connect-react-frontend-and-node-backend-1pik)
 - [Amazing Emmet shortcuts to code faster](https://dev.to/itsrakesh/amazing-emmet-shortcuts-to-code-faster-353k)
-- [How to put your website online in under 10 minutes?](https://dev.to/itsrakesh/how-to-put-website-online-under-10-minutes-3m2g)
 <!-- BLOG-POST-LIST:END -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RakeshPotnuru.RakeshPotnuru)
