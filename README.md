@@ -54,11 +54,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Facebook pixel and how to use it?](https://dev.to/itsrakesh/what-is-facebook-pixel-and-how-to-use-it-2c4c)
 - [Let&#39;s explore different tech stacks](https://dev.to/itsrakesh/lets-explore-different-tech-stacks-4ea0)
 - [Guide to make your first react package](https://dev.to/itsrakesh/guide-to-make-your-first-react-package-2gd0)
 - [Two new react frameworks](https://dev.to/itsrakesh/two-new-react-frameworks-3hg7)
 - [Web design principles with examples](https://dev.to/itsrakesh/web-design-principles-1p2k)
-- [Different ways to connect react frontend and node backend](https://dev.to/itsrakesh/different-ways-to-connect-react-frontend-and-node-backend-1pik)
 <!-- BLOG-POST-LIST:END -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RakeshPotnuru.RakeshPotnuru)
