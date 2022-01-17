@@ -54,11 +54,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoid these mistakes when you are learning a new technology](https://dev.to/itsrakesh/avoid-these-mistakes-when-you-are-learning-a-new-technology-1l8j)
 - [The flow of building a full-stack web application](https://dev.to/itsrakesh/the-flow-of-building-a-full-stack-web-application-447g)
 - [Best productivity tools for web developers](https://dev.to/itsrakesh/best-productivity-tools-for-web-developers-1e7g)
 - [What is Facebook pixel and how to use it?](https://dev.to/itsrakesh/what-is-facebook-pixel-and-how-to-use-it-2c4c)
 - [Let&#39;s explore different tech stacks](https://dev.to/itsrakesh/lets-explore-different-tech-stacks-4ea0)
-- [Guide to make your first react package](https://dev.to/itsrakesh/guide-to-make-your-first-react-package-2gd0)
 <!-- BLOG-POST-LIST:END -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RakeshPotnuru.RakeshPotnuru)
