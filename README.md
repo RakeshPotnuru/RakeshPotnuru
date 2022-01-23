@@ -1,48 +1,104 @@
+[![itsrakesh.co](https://user-images.githubusercontent.com/70439799/150669911-f4770983-6987-48b8-ad53-a5542231e894.gif)](https://itsrakesh.co)
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakesh</h1>
-<h3 align="center">I am a CS undergraduate. I am passionate about Technology and love to learn new things.</h3>
+<h3 align="center">Web Developer - Technical Writer - Internet Explorer</h3>
 
-- 🌱 I’m currently exploring Web 3.
-- 📫 How to reach me - rakesh@itsrakesh.co
+- 🌱 I’m currently learning **TypeScript**
 
-### Connect with me:
+- 👨‍💻 All of my projects are available [here](https://itsrakesh.co/work/projects)
 
-<!-- [<img align="left" target="_blank" alt="itsrakesh.co" width="22px" src="https://i.im.ge/2021/10/20/oS5hgx.png" />](https://itsrakesh.co) -->
-[<img align="left" target="_blank" alt="rakesh_at_tweet | Twitter" width="22px" src="https://i.im.ge/2021/10/20/oSdS79.png" />](https://twitter.com/rakesh_at_tweet)
-[<img align="left" target="_blank" alt="rakesh | LinkedIn" width="22px" src="https://i.im.ge/2021/10/20/oS7HTY.png" />](https://www.linkedin.com/in/rakesh-potnuru-067a8b1b1/)
+- 📝 I regularly write articles on my [blog](https://blog.itsrakesh.co)
 
-<br>
+- 💬 Ask me about **web dev**
+
+- 📫 How to reach me **rakesh@itsrakesh.co**
+
+### 🤝 Connect with me:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://itsrakesh.co)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rakesh_at_tweet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsrakeshdotco)
 
 ---
+
+### 📜 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Avoid these mistakes when you are learning a new technology](https://dev.to/itsrakesh/avoid-these-mistakes-when-you-are-learning-a-new-technology-1l8j)
+- [The flow of building a full-stack web application](https://dev.to/itsrakesh/the-flow-of-building-a-full-stack-web-application-447g)
+- [Best productivity tools for web developers](https://dev.to/itsrakesh/best-productivity-tools-for-web-developers-1e7g)
+- [What is Facebook pixel and how to use it?](https://dev.to/itsrakesh/what-is-facebook-pixel-and-how-to-use-it-2c4c)
+- [Let&#39;s explore different tech stacks](https://dev.to/itsrakesh/lets-explore-different-tech-stacks-4ea0)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=RakeshPotnuru&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" align="right" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshPotnuru&theme=tokyonight&hide_border=true" alt="rakesh's github streak" width="48%" >
 
-### Languages and Tools:
+---
 
-<img align="left" alt="visual studio" width="36px" src="https://i.im.ge/2021/10/20/oSjYw4.png" />
-<img align="left" alt="bootstrap" width="36px" src="https://i.im.ge/2021/10/20/oSjCCM.png" />
-<img align="left" alt="c++" width="36px" src="https://i.im.ge/2021/10/20/oSj32D.png" />
-<img align="left" alt="docker" width="36px" src="https://i.im.ge/2021/10/20/oSjEpY.png" />
-<img align="left" alt="git" width="36px" src="https://i.im.ge/2021/10/20/oSjA7h.png" />
-<img align="left" alt="github" width="36px" src="https://i.im.ge/2021/10/20/oSjglq.png" />
-<img align="left" alt="Vim" width="36px" src="https://i.im.ge/2021/10/20/oSj4cG.png" />
-<img align="left" alt="heroku" width="36px" src="https://i.im.ge/2021/10/20/oSj8ip.png" />
-<img align="left" alt="java" width="36px" src="https://i.im.ge/2021/10/20/oSjRcP.png" />
-<img align="left" alt="javascript" width="36px" src="https://i.im.ge/2021/10/20/oSjWe1.png" />
-<img align="left" alt="jquery" width="36px" src="https://i.im.ge/2021/10/20/oSjK7f.png" />
-<img align="left" alt="mongodb" width="36px" src="https://i.im.ge/2021/10/20/oSjVCm.png" />
-<img align="left" alt="mysql" width="36px" src="https://i.im.ge/2021/10/20/oSjfvr.png" />
-<img align="left" alt="nodejs" width="36px" src="https://i.im.ge/2021/10/20/oSwHoc.png" />
-<img align="left" alt="python" width="36px" src="https://i.im.ge/2021/10/20/oSjH60.png" />
-<img align="left" alt="react" width="36px" src="https://i.im.ge/2021/10/20/oSjpVT.png" />
-<img align="left" alt="redis" width="36px" src="https://i.im.ge/2021/10/20/oSjJlc.png" />
-<img align="left" alt="ubuntu" width="36px" src="https://i.im.ge/2021/10/20/oSjn0L.png" />
+### 🧑‍💻 Languages
 
+[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://itsrakesh.co)
+[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://itsrakesh.co)
+[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://itsrakesh.co)
+[![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://itsrakesh.co)
+[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://itsrakesh.co)
+[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://itsrakesh.co)
+[![plsql](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://itsrakesh.co)
+[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://itsrakesh.co)
 
-<br>
-<br>
-<br>
-<br>
+### 🧩 Frameworks/Libraries
+
+[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://itsrakesh.co)
+[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://itsrakesh.co)
+[![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://itsrakesh.co)
+[![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://itsrakesh.co)
+[![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://itsrakesh.co)
+[![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://itsrakesh.co)
+[![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://itsrakesh.co)
+[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://itsrakesh.co)
+
+### 🗃️ Databases
+
+[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://itsrakesh.co)
+[![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://itsrakesh.co)
+
+### ⚒️ Tools
+
+[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://itsrakesh.co)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://itsrakesh.co)
+[![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://itsrakesh.co)
+[![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://itsrakesh.co)
+[![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://itsrakesh.co)
+[![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://itsrakesh.co)
+[![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://itsrakesh.co)
+[![twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)](https://itsrakesh.co)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://itsrakesh.co)
+[![pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://itsrakesh.co)
+[![conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://itsrakesh.co)
+[![gitkraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)](https://itsrakesh.co)
+
+### 🧠 IDEs I use
+
+[![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://itsrakesh.co)
+[![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://itsrakesh.co)
+[![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://itsrakesh.co)
+[![intellijidea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://itsrakesh.co)
+[![codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://itsrakesh.co)
+[![notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://itsrakesh.co)
+[![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://itsrakesh.co)
+
+### 💻 Workspace
+
+[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://itsrakesh.co)
+[![hp laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)](https://itsrakesh.co)
+[![acer monitor](https://img.shields.io/badge/acer%20monitor-83B81A?style=for-the-badge&logo=acer&logoColor=white)](https://itsrakesh.co)
+
+---
 
 <details>
   <summary>Most used languages</summary>
@@ -51,15 +107,9 @@
 
 ---
 
-### Latest Blog Posts
+### This week I did
 
-<!-- BLOG-POST-LIST:START -->
-- [Avoid these mistakes when you are learning a new technology](https://medium.com/@itsrakesh/avoid-these-mistakes-when-you-are-learning-a-new-technology-adaa6a2b2d1d?source=rss-e09c62468ad2------2)
-- [The flow of building a full-stack web application](https://medium.com/@itsrakesh/the-flow-of-building-a-full-stack-web-application-447g-a92ba8f62065?source=rss-e09c62468ad2------2)
-- [Best productivity tools for web developers](https://medium.com/@itsrakesh/best-productivity-tools-for-web-developers-237275f81583?source=rss-e09c62468ad2------2)
-- [What is Facebook Pixel and how to use it?](https://medium.com/@itsrakesh/what-is-facebook-pixel-and-how-to-use-it-e51f8608fb25?source=rss-e09c62468ad2------2)
-- [Let’s explore different tech stacks](https://medium.com/@itsrakesh/lets-explore-different-tech-stacks-316dc9ebd7e5?source=rss-e09c62468ad2------2)
-<!-- BLOG-POST-LIST:END -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsrakesh)](https://wakatime.com/@itsrakesh)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RakeshPotnuru.RakeshPotnuru)
 <!---
