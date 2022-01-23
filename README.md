@@ -101,15 +101,15 @@
 ---
 
 <details>
-  <summary>Most used languages</summary>
+  <summary>🔝 Most used languages</summary>
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshPotnuru&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
 </details>
 
 ---
 
-### This week I did
+### 🧑‍🔬 This week I did
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsrakesh)](https://wakatime.com/@itsrakesh)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsrakesh&theme=github_dark&hide_border=true)](https://wakatime.com/@itsrakesh)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RakeshPotnuru.RakeshPotnuru)
 <!---
