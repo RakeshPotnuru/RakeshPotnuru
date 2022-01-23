@@ -24,11 +24,11 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoid these mistakes when you are learning a new technology](https://dev.to/itsrakesh/avoid-these-mistakes-when-you-are-learning-a-new-technology-1l8j)
-- [The flow of building a full-stack web application](https://dev.to/itsrakesh/the-flow-of-building-a-full-stack-web-application-447g)
-- [Best productivity tools for web developers](https://dev.to/itsrakesh/best-productivity-tools-for-web-developers-1e7g)
-- [What is Facebook pixel and how to use it?](https://dev.to/itsrakesh/what-is-facebook-pixel-and-how-to-use-it-2c4c)
-- [Let&#39;s explore different tech stacks](https://dev.to/itsrakesh/lets-explore-different-tech-stacks-4ea0)
+- [Avoid these mistakes when you are learning a new technology](https://medium.com/@itsrakesh/avoid-these-mistakes-when-you-are-learning-a-new-technology-adaa6a2b2d1d?source=rss-e09c62468ad2------2)
+- [The flow of building a full-stack web application](https://medium.com/@itsrakesh/the-flow-of-building-a-full-stack-web-application-447g-a92ba8f62065?source=rss-e09c62468ad2------2)
+- [Best productivity tools for web developers](https://medium.com/@itsrakesh/best-productivity-tools-for-web-developers-237275f81583?source=rss-e09c62468ad2------2)
+- [What is Facebook Pixel and how to use it?](https://medium.com/@itsrakesh/what-is-facebook-pixel-and-how-to-use-it-e51f8608fb25?source=rss-e09c62468ad2------2)
+- [Let’s explore different tech stacks](https://medium.com/@itsrakesh/lets-explore-different-tech-stacks-316dc9ebd7e5?source=rss-e09c62468ad2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
