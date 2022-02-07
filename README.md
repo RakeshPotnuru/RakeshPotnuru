@@ -24,11 +24,11 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Auto-generate your NodeJs app + Admin-UI](https://medium.com/@itsrakesh/auto-generate-your-nodejs-app-admin-ui-1e0aeaf92cd7?source=rss-e09c62468ad2------2)
 - [How I built my portfolio website](https://medium.com/@itsrakesh/how-i-built-my-portfolio-website-dc61057d82e?source=rss-e09c62468ad2------2)
 - [Tools I use from design to deployment, testing and setting up analytics](https://medium.com/@itsrakesh/tools-i-use-from-design-to-deployment-testing-and-setting-up-analytics-23b5818ad81?source=rss-e09c62468ad2------2)
 - [Avoid these mistakes when you are learning a new technology](https://medium.com/@itsrakesh/avoid-these-mistakes-when-you-are-learning-a-new-technology-adaa6a2b2d1d?source=rss-e09c62468ad2------2)
 - [The flow of building a full-stack web application](https://medium.com/@itsrakesh/the-flow-of-building-a-full-stack-web-application-447g-a92ba8f62065?source=rss-e09c62468ad2------2)
-- [Best productivity tools for web developers](https://medium.com/@itsrakesh/best-productivity-tools-for-web-developers-237275f81583?source=rss-e09c62468ad2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
