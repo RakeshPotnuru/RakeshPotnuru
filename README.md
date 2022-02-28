@@ -24,11 +24,11 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Online playgrounds for every technology](https://medium.com/@itsrakesh/online-playgrounds-for-every-technology-9ea83a606e86?source=rss-e09c62468ad2------2)
 - [Take your automation to next level with 2captcha](https://medium.com/@itsrakesh/take-your-automation-to-next-level-with-2captcha-adc8443157cc?source=rss-e09c62468ad2------2)
 - [Git, GitHub — Ultimate developer tools](https://medium.com/@itsrakesh/git-github-ultimate-developer-tools-341448ef14ab?source=rss-e09c62468ad2------2)
 - [How I structure my react components](https://medium.com/@itsrakesh/how-i-structure-my-react-components-73ced43d44a0?source=rss-e09c62468ad2------2)
 - [Auto-generate your NodeJs app + Admin-UI](https://medium.com/@itsrakesh/auto-generate-your-nodejs-app-admin-ui-1e0aeaf92cd7?source=rss-e09c62468ad2------2)
-- [How I built my portfolio website](https://medium.com/@itsrakesh/how-i-built-my-portfolio-website-dc61057d82e?source=rss-e09c62468ad2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
