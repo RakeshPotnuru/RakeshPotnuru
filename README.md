@@ -24,11 +24,11 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up Web Development environment in WinNux &lpar;Windows + Linux&rpar;](https://medium.com/@itsrakesh/setting-up-web-development-environment-in-winnux-windows-linux-7c3a80b429d5?source=rss-e09c62468ad2------2)
 - [Web 2.0 architecture Vs Web 3.0 architecture](https://medium.com/@itsrakesh/web-2-0-architecture-vs-web-3-0-architecture-c87ff647231?source=rss-e09c62468ad2------2)
 - [Online playgrounds for every technology](https://medium.com/@itsrakesh/online-playgrounds-for-every-technology-9ea83a606e86?source=rss-e09c62468ad2------2)
 - [Take your automation to next level with 2captcha](https://medium.com/@itsrakesh/take-your-automation-to-next-level-with-2captcha-adc8443157cc?source=rss-e09c62468ad2------2)
 - [Git, GitHub — Ultimate developer tools](https://medium.com/@itsrakesh/git-github-ultimate-developer-tools-341448ef14ab?source=rss-e09c62468ad2------2)
-- [How I structure my react components](https://medium.com/@itsrakesh/how-i-structure-my-react-components-73ced43d44a0?source=rss-e09c62468ad2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
