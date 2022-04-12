@@ -24,7 +24,7 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to better design website layouts and elements — Part 2](https://medium.com/@itsrakesh/how-to-better-design-website-layouts-and-elements-part-2-8748ef401ff2?source=rss-e09c62468ad2------2)
+- [How to better design website layouts and elements — Part 2](https://bootcamp.uxdesign.cc/how-to-better-design-website-layouts-and-elements-part-2-8748ef401ff2?source=rss-e09c62468ad2------2)
 - [How to better design website layouts and elements — Part 1](https://bootcamp.uxdesign.cc/how-to-better-design-website-layouts-and-elements-part-1-16a7b5bae1a3?source=rss-e09c62468ad2------2)
 - [What is Chatwoot and how to integrate it on your website?](https://medium.com/@itsrakesh/what-is-chatwoot-and-how-to-integrate-it-on-your-website-606618468aff?source=rss-e09c62468ad2------2)
 - [8 best opensource projects you should try out](https://medium.com/codex/8-best-opensource-projects-you-should-try-out-c0637d3c6ed3?source=rss-e09c62468ad2------2)
