@@ -24,11 +24,11 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to better design website layouts and elements — Part 2](https://medium.com/@itsrakesh/how-to-better-design-website-layouts-and-elements-part-2-8748ef401ff2?source=rss-e09c62468ad2------2)
 - [How to better design website layouts and elements — Part 1](https://bootcamp.uxdesign.cc/how-to-better-design-website-layouts-and-elements-part-1-16a7b5bae1a3?source=rss-e09c62468ad2------2)
 - [What is Chatwoot and how to integrate it on your website?](https://medium.com/@itsrakesh/what-is-chatwoot-and-how-to-integrate-it-on-your-website-606618468aff?source=rss-e09c62468ad2------2)
 - [8 best opensource projects you should try out](https://medium.com/codex/8-best-opensource-projects-you-should-try-out-c0637d3c6ed3?source=rss-e09c62468ad2------2)
 - [Setting up Web Development environment in WinNux &lpar;Windows + Linux&rpar;](https://medium.com/@itsrakesh/setting-up-web-development-environment-in-winnux-windows-linux-7c3a80b429d5?source=rss-e09c62468ad2------2)
-- [Web 2.0 architecture Vs Web 3.0 architecture](https://medium.com/@itsrakesh/web-2-0-architecture-vs-web-3-0-architecture-c87ff647231?source=rss-e09c62468ad2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
