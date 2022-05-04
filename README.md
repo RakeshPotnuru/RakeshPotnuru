@@ -24,7 +24,7 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with Open Source contributions — What, Why, How](https://medium.com/@itsrakesh/getting-started-with-open-source-contributions-what-why-how-388030eeb440?source=rss-e09c62468ad2------2)
+- [Getting started with Open Source contributions — What, Why, How](https://medium.com/codex/getting-started-with-open-source-contributions-what-why-how-388030eeb440?source=rss-e09c62468ad2------2)
 - [Let’s learn, build and sell an API](https://medium.com/codex/lets-learn-build-and-sell-an-api-a12b0d7b4c2?source=rss-e09c62468ad2------2)
 - [[PART 2] 8 best open source projects you should try out](https://medium.com/codex/part-2-8-best-open-source-projects-you-should-try-out-6de58feba631?source=rss-e09c62468ad2------2)
 - [How to better design website layouts and elements — Part 2](https://bootcamp.uxdesign.cc/how-to-better-design-website-layouts-and-elements-part-2-8748ef401ff2?source=rss-e09c62468ad2------2)
