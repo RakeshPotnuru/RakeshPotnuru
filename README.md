@@ -24,11 +24,11 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Taking Open Source contributions and communities to next level with the Reward System](https://medium.com/codex/taking-open-source-contributions-and-communities-to-next-level-with-the-reward-system-9d6e943cef48?source=rss-e09c62468ad2------2)
 - [How the Web works — Behind the scenes](https://bootcamp.uxdesign.cc/how-the-web-works-behind-the-scenes-a7e54a1a240f?source=rss-e09c62468ad2------2)
 - [Web3 learning platforms — Earn While You Learn](https://medium.com/@itsrakesh/web3-learning-platforms-earn-while-you-learn-b158d1ca3115?source=rss-e09c62468ad2------2)
 - [Getting started with Open Source contributions — What, Why, How](https://medium.com/codex/getting-started-with-open-source-contributions-what-why-how-388030eeb440?source=rss-e09c62468ad2------2)
 - [Let’s learn, build and sell an API](https://medium.com/codex/lets-learn-build-and-sell-an-api-a12b0d7b4c2?source=rss-e09c62468ad2------2)
-- [[PART 2] 8 best open source projects you should try out](https://medium.com/codex/part-2-8-best-open-source-projects-you-should-try-out-6de58feba631?source=rss-e09c62468ad2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
