@@ -24,11 +24,11 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Most active Developer Communities you should join in 2022](https://medium.com/@itsrakesh/most-active-developer-communities-you-should-join-in-2022-cb7254f8620?source=rss-e09c62468ad2------2)
 - [What is Blockchain? How does it work? Why do we need it?](https://medium.com/codex/what-is-blockchain-how-does-it-work-why-do-we-need-it-2e748a8edcc9?source=rss-e09c62468ad2------2)
 - [Join me in the #100DaysOfWeb3 challenge](https://medium.com/@itsrakesh/join-me-in-the-100daysofweb3-challenge-abc13e831d27?source=rss-e09c62468ad2------2)
 - [Taking Open Source contributions and communities to next level with the Reward System](https://medium.com/codex/taking-open-source-contributions-and-communities-to-next-level-with-the-reward-system-9d6e943cef48?source=rss-e09c62468ad2------2)
 - [How the Web works — Behind the scenes](https://bootcamp.uxdesign.cc/how-the-web-works-behind-the-scenes-a7e54a1a240f?source=rss-e09c62468ad2------2)
-- [Web3 learning platforms — Earn While You Learn](https://medium.com/@itsrakesh/web3-learning-platforms-earn-while-you-learn-b158d1ca3115?source=rss-e09c62468ad2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
