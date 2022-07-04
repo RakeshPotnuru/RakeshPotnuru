@@ -24,7 +24,7 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built my Blog with NextJs, Chakra UI, and GraphCMS?](https://medium.com/@itsrakesh/how-i-built-my-blog-with-nextjs-chakra-ui-and-graphcms-ae5a7d3a374b?source=rss-e09c62468ad2------2)
+- [How I built my Blog with NextJs, Chakra UI, and GraphCMS?](https://medium.com/codex/how-i-built-my-blog-with-nextjs-chakra-ui-and-graphcms-ae5a7d3a374b?source=rss-e09c62468ad2------2)
 - [What are dApps? How they are different from normal apps?](https://medium.com/coinmonks/what-are-dapps-how-they-are-different-from-normal-apps-9c10a38766b6?source=rss-e09c62468ad2------2)
 - [Most active Developer Communities you should join in 2022](https://medium.com/@itsrakesh/most-active-developer-communities-you-should-join-in-2022-cb7254f8620?source=rss-e09c62468ad2------2)
 - [What is Blockchain? How does it work? Why do we need it?](https://medium.com/codex/what-is-blockchain-how-does-it-work-why-do-we-need-it-2e748a8edcc9?source=rss-e09c62468ad2------2)
