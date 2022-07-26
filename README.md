@@ -24,7 +24,7 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Let’s build and deploy a full stack MERN web application](https://medium.com/@itsrakesh/lets-build-and-deploy-a-full-stack-mern-web-application-765ba138aee2?source=rss-e09c62468ad2------2)
+- [Let’s build and deploy a full stack MERN web application](https://bootcamp.uxdesign.cc/lets-build-and-deploy-a-full-stack-mern-web-application-765ba138aee2?source=rss-e09c62468ad2------2)
 - [VSCode extensions every web developer should know](https://medium.com/codex/vscode-extensions-every-web-developer-should-know-b1aee0c90b90?source=rss-e09c62468ad2------2)
 - [How I built my Blog with NextJs, Chakra UI, and GraphCMS?](https://medium.com/codex/how-i-built-my-blog-with-nextjs-chakra-ui-and-graphcms-ae5a7d3a374b?source=rss-e09c62468ad2------2)
 - [What are dApps? How they are different from normal apps?](https://medium.com/coinmonks/what-are-dapps-how-they-are-different-from-normal-apps-9c10a38766b6?source=rss-e09c62468ad2------2)
