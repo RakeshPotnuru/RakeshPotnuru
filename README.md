@@ -24,11 +24,11 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One Year of Writing: A Look Back and a Look Forward](https://medium.com/@itsrakesh/one-year-of-writing-a-look-back-and-a-look-forward-9a9fcc637af?source=rss-e09c62468ad2------2)
 - [How to write tests in full-stack MERN web application](https://medium.com/codex/how-to-write-tests-in-full-stack-mern-web-application-db1fcd991c0e?source=rss-e09c62468ad2------2)
 - [Adding Authentication to full stack MERN web application](https://medium.com/codex/adding-authentication-to-full-stack-mern-web-application-4974543c3e66?source=rss-e09c62468ad2------2)
 - [8 Most Popular Gaming Platforms For Programmers](https://medium.com/codex/8-most-popular-gaming-platforms-for-programmers-968f76681529?source=rss-e09c62468ad2------2)
 - [How to set up your own personal blog: Step-By-Step Guide](https://medium.com/codex/how-to-set-up-your-own-personal-blog-step-by-step-guide-d2835d65fff9?source=rss-e09c62468ad2------2)
-- [The most efficient way to internationalize your web app](https://medium.com/@itsrakesh/the-most-efficient-way-to-internationalize-your-web-app-3d89d434afdf?source=rss-e09c62468ad2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
