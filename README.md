@@ -25,7 +25,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Top Mobile Apps for Developers: Boost Your Productivity](https://medium.com/@itsrakesh/top-mobile-apps-for-developers-boost-your-productivity-7ec8a18985dd?source=rss-e09c62468ad2------2)
-- [Build Your Own URL Shortener with Firebase Dynamic Links](https://medium.com/dsc-lpu/build-your-own-url-shortener-with-firebase-dynamic-links-3301a4c8d1f5?source=rss-e09c62468ad2------2)
+- [Build Your Own URL Shortener with Firebase Dynamic Links](https://medium.com/gdsclpu/build-your-own-url-shortener-with-firebase-dynamic-links-3301a4c8d1f5?source=rss-e09c62468ad2------2)
 - [One Year of Writing: A Look Back and a Look Forward](https://medium.com/@itsrakesh/one-year-of-writing-a-look-back-and-a-look-forward-9a9fcc637af?source=rss-e09c62468ad2------2)
 - [How to write tests in full-stack MERN web application](https://medium.com/codex/how-to-write-tests-in-full-stack-mern-web-application-db1fcd991c0e?source=rss-e09c62468ad2------2)
 - [Adding Authentication to full stack MERN web application](https://medium.com/codex/adding-authentication-to-full-stack-mern-web-application-4974543c3e66?source=rss-e09c62468ad2------2)
