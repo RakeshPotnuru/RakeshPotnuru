@@ -24,7 +24,7 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Feature Flags Can Help You Ship Faster and Smarter?](https://medium.com/@itsrakesh/how-feature-flags-can-help-you-ship-faster-and-smarter-19e38546a025?source=rss-e09c62468ad2------2)
+- [How Feature Flags Can Help You Ship Faster and Smarter?](https://medium.com/codex/how-feature-flags-can-help-you-ship-faster-and-smarter-19e38546a025?source=rss-e09c62468ad2------2)
 - [Dockerizing Your MERN Stack App: A Step-by-Step Guide](https://medium.com/codex/dockerizing-your-mern-stack-app-a-step-by-step-guide-79fecddfde72?source=rss-e09c62468ad2------2)
 - [Top Mobile Apps for Developers: Boost Your Productivity](https://medium.com/@itsrakesh/top-mobile-apps-for-developers-boost-your-productivity-7ec8a18985dd?source=rss-e09c62468ad2------2)
 - [Build Your Own URL Shortener with Firebase Dynamic Links](https://medium.com/gdsclpu/build-your-own-url-shortener-with-firebase-dynamic-links-3301a4c8d1f5?source=rss-e09c62468ad2------2)
