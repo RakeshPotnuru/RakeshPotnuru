@@ -24,7 +24,7 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate MERN App Deployment with GitHub Actions CI/CD](https://medium.com/@itsrakesh/automate-mern-app-deployment-with-github-actions-ci-cd-84ceaf8fc0b7?source=rss-e09c62468ad2------2)
+- [Automate MERN App Deployment with GitHub Actions CI/CD](https://medium.com/codex/automate-mern-app-deployment-with-github-actions-ci-cd-84ceaf8fc0b7?source=rss-e09c62468ad2------2)
 - [Getting Started with Firebase for Web Development](https://medium.com/gdsclpu/getting-started-with-firebase-for-web-development-ffffdbdd540e?source=rss-e09c62468ad2------2)
 - [How Feature Flags Can Help You Ship Faster and Smarter?](https://medium.com/codex/how-feature-flags-can-help-you-ship-faster-and-smarter-19e38546a025?source=rss-e09c62468ad2------2)
 - [Dockerizing Your MERN Stack App: A Step-by-Step Guide](https://medium.com/codex/dockerizing-your-mern-stack-app-a-step-by-step-guide-79fecddfde72?source=rss-e09c62468ad2------2)
