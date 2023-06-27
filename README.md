@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on my [blog](https://blog.itsrakesh.co)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Full-stack development**
 
 - 📫 How to reach me **rakesh@itsrakesh.co**
 
