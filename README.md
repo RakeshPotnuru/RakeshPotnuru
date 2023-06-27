@@ -3,7 +3,7 @@
 <h1 align="center">Hi <a href="https://itsrakesh.co"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, I'm Rakesh</h1>
 <h3 align="center">🌐 Web Developer ✍️ Technical Writer ✈️ Internet Explorer</h3>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **tRPC and NestJs**
 
 - 👨‍💻 All of my projects are available [here](https://itsrakesh.co/work/projects)
 
