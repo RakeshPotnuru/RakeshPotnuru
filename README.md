@@ -26,11 +26,11 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Let’s Build a Full-Stack App with tRPC and Next.js App Router](https://medium.com/codex/lets-build-a-full-stack-app-with-trpc-and-next-js-14-a679acd4ab2d?source=rss-e09c62468ad2------2)
 - [✨ Introducing Publish Studio](https://medium.com/@itsrakesh/introducing-publish-studio-56681e27e767?source=rss-e09c62468ad2------2)
 - [Deploying a MERN App to AWS Elastic Beanstalk with CI/CD](https://medium.com/codex/deploying-a-mern-app-to-aws-elastic-beanstalk-with-ci-cd-843f414645ec?source=rss-e09c62468ad2------2)
 - [Automate MERN App Deployment with GitHub Actions CI/CD](https://medium.com/codex/automate-mern-app-deployment-with-github-actions-ci-cd-84ceaf8fc0b7?source=rss-e09c62468ad2------2)
 - [Getting Started with Firebase for Web Development](https://medium.com/gdsclpu/getting-started-with-firebase-for-web-development-ffffdbdd540e?source=rss-e09c62468ad2------2)
-- [How Feature Flags Can Help You Ship Faster and Smarter?](https://medium.com/codex/how-feature-flags-can-help-you-ship-faster-and-smarter-19e38546a025?source=rss-e09c62468ad2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
