@@ -1,4 +1,4 @@
-[NEW] Try ➡ ✨[Publish Studio](https://publishstudio.one)✨
+Support Publish Studio on [Product Hunt](https://pbst.link/ph)
 
 [![itsrakesh.com](https://user-images.githubusercontent.com/70439799/150669911-f4770983-6987-48b8-ad53-a5542231e894.gif)](https://itsrakesh.com)
 
