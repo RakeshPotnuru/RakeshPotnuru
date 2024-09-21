@@ -27,7 +27,7 @@ Support Publish Studio on [Product Hunt](https://pbst.link/ph)
 
 <!-- BLOG-POST-LIST:START -->
 - [Craft Irresistible Blog Titles: The Ultimate Guide](https://medium.com/publish-studio/craft-irresistible-blog-titles-the-ultimate-guide-7bf4e6e5a3ed?source=rss-e09c62468ad2------2)
-- [Let’s Build a Full-Stack App with tRPC and Next.js App Router](https://bootcamp.uxdesign.cc/lets-build-a-full-stack-app-with-trpc-and-next-js-14-a679acd4ab2d?source=rss-e09c62468ad2------2)
+- [Let’s Build a Full-Stack App with tRPC and Next.js App Router](https://medium.com/design-bootcamp/lets-build-a-full-stack-app-with-trpc-and-next-js-14-a679acd4ab2d?source=rss-e09c62468ad2------2)
 - [✨ Introducing Publish Studio](https://medium.com/@itsrakesh/introducing-publish-studio-56681e27e767?source=rss-e09c62468ad2------2)
 - [Deploying a MERN App to AWS Elastic Beanstalk with CI/CD](https://medium.com/codex/deploying-a-mern-app-to-aws-elastic-beanstalk-with-ci-cd-843f414645ec?source=rss-e09c62468ad2------2)
 - [Automate MERN App Deployment with GitHub Actions CI/CD](https://medium.com/codex/automate-mern-app-deployment-with-github-actions-ci-cd-84ceaf8fc0b7?source=rss-e09c62468ad2------2)
