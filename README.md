@@ -5,7 +5,7 @@ Support Publish Studio on [Product Hunt](https://pbst.link/ph)
 <h1 align="center">Hi <a href="https://itsrakesh.com"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, I'm Rakesh</h1>
 <h3 align="center">🌐 Web Developer ✍️ Technical Writer ✈️ Internet Explorer</h3>
 
-- 🌱 I’m currently learning **tRPC**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available [here](https://itsrakesh.com/work/projects)
 
