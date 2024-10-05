@@ -3,15 +3,13 @@ Support Publish Studio on [Product Hunt](https://pbst.link/ph)
 [![itsrakesh.com](https://user-images.githubusercontent.com/70439799/150669911-f4770983-6987-48b8-ad53-a5542231e894.gif)](https://itsrakesh.com)
 
 <h1 align="center">Hi <a href="https://itsrakesh.com"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, I'm Rakesh</h1>
-<h3 align="center">🌐 Web Developer ✍️ Technical Writer ✈️ Internet Explorer</h3>
+<h3 align="center">🌐 Building stuff ✍️ Technical Writer ✈️ Internet Explorer</h3>
 
 - 🌱 I’m currently learning **NestJs**
 
 - 👨‍💻 All of my projects are available [here](https://itsrakesh.com/work/projects)
 
 - 📝 I regularly write articles on my [blog](https://blog.itsrakesh.com)
-
-- 💬 Ask me about **Full-stack development**
 
 - 📫 How to reach me **rakesh@itsrakesh.com**
 
