@@ -1,4 +1,4 @@
-Support Publish Studio on [Product Hunt](https://pbst.link/ph)
+<!-- Badges: https://github.com/Envoy-VC/awesome-badges -->
 
 [![itsrakesh.com](https://user-images.githubusercontent.com/70439799/150669911-f4770983-6987-48b8-ad53-a5542231e894.gif)](https://itsrakesh.com)
 
@@ -58,6 +58,7 @@ Support Publish Studio on [Product Hunt](https://pbst.link/ph)
 
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://itsrakesh.com)
 [![nextjs](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://itsrakesh.com)
+[![nestjs](https://img.shields.io/badge/NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)](https://itsrakesh.com)
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://itsrakesh.com)
 [![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://itsrakesh.com)
 [![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://itsrakesh.com)
@@ -83,17 +84,18 @@ Support Publish Studio on [Product Hunt](https://pbst.link/ph)
 [![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://itsrakesh.com)
 [![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://itsrakesh.com)
 [![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://itsrakesh.com)
+[![supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://itsrakesh.com)
 [![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://itsrakesh.com)
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://itsrakesh.com)
 [![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://itsrakesh.com)
 [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://itsrakesh.com)
 [![twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)](https://itsrakesh.com)
 [![conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://itsrakesh.com)
+[![conda](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://itsrakesh.com)
 
 ### 🧠 IDEs/Text Editors I use
 
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://itsrakesh.com)
-[![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://itsrakesh.com)
 
 ### 💻 Workspace
 
