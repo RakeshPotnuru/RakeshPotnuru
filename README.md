@@ -7,18 +7,18 @@
 
 - 🌱 I’m currently learning **[Electron](https://www.electronjs.org)**
 
-- 👨‍💻 All of my projects are available [here](https://itsrakesh.com/work/projects)
+- 👨‍💻 All of my projects are available [here](https://itsrakesh.com/projects)
 
-- 📝 I regularly write articles on my [blog](https://blog.itsrakesh.com)
+- 📝 I regularly write articles on my [blog](https://itsrakesh.com/blog)
 
 - 📫 How to reach me **rakesh@itsrakesh.com**
 
 ### 🤝 Connect with me:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://itsrakesh.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rakesh_at_tweet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/potnururakesh)
-[![MyOnePost](https://img.shields.io/badge/myonepost-2463EB?style=for-the-badge&logo=myonepost&logoColor=white)](https://myonepost.com/@rakesh)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://rksh.link/x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://rksh.link/linkedin)
+[![MyOnePost](https://img.shields.io/badge/myonepost-2463EB?style=for-the-badge&logo=myonepost&logoColor=white)](https://rksh.link/myonepost)
 
 ---
 
