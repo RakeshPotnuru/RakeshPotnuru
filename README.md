@@ -25,7 +25,7 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Email Verification System in Next.js and tRPC with Resend](https://medium.com/@itsrakesh/email-verification-system-in-next-js-and-trpc-with-resend-a19515817934?source=rss-e09c62468ad2------2)
+- [Email Verification System in Next.js and tRPC with Resend](https://medium.com/codex/email-verification-system-in-next-js-and-trpc-with-resend-a19515817934?source=rss-e09c62468ad2------2)
 - [Cookie-Based Authentication in Nextjs App Router Application](https://medium.com/codex/cookie-based-authentication-in-nextjs-app-router-application-73d97e9fabc3?source=rss-e09c62468ad2------2)
 - [Implementing Cookie-Based JWT Authentication in a tRPC Backend](https://medium.com/codex/implementing-cookie-based-jwt-authentication-in-a-trpc-backend-6b6c1b2710b0?source=rss-e09c62468ad2------2)
 - [My 2025 Tech Stack: Tools &amp; Tech I’m Using This Year](https://medium.com/codex/my-2025-tech-stack-tools-tech-im-using-this-year-ca06af68b8da?source=rss-e09c62468ad2------2)
