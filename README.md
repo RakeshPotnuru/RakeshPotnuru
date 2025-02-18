@@ -41,7 +41,7 @@
 </a>
 
 <a href="https://itsrakesh.com">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshPotnuru&theme=github_dark&hide_border=true" alt="rakesh's github streak" width="48%" >
+<img src="https://github-streak.itsrakesh.com/?user=RakeshPotnuru&theme=github-dark&hide_border=true" alt="rakesh's github streak" width="48%" >
 </a>
 
 ---
