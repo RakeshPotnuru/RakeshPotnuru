@@ -25,7 +25,7 @@
 ### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Tools I Used This Month](https://medium.com/codex/ai-tools-i-used-this-month-abf44e21aa98?source=rss-e09c62468ad2------2)
+- [AI Tools I Used This Month](https://blog.devgenius.io/ai-tools-i-used-this-month-abf44e21aa98?source=rss-e09c62468ad2------2)
 - [Integrating DeepSeek API in NextJs and ExpressJs App](https://blog.devgenius.io/integrating-deepseek-api-in-nextjs-and-expressjs-app-e6234ac3c2bc?source=rss-e09c62468ad2------2)
 - [Email Verification System in Next.js and tRPC with Resend](https://medium.com/codex/email-verification-system-in-next-js-and-trpc-with-resend-a19515817934?source=rss-e09c62468ad2------2)
 - [Cookie-Based Authentication in Nextjs App Router Application](https://medium.com/codex/cookie-based-authentication-in-nextjs-app-router-application-73d97e9fabc3?source=rss-e09c62468ad2------2)
