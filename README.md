@@ -18,7 +18,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://itsrakesh.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://rksh.link/x)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://rksh.link/linkedin)
-[![MyOnePost](https://img.shields.io/badge/myonepost-2463EB?style=for-the-badge&logo=myonepost&logoColor=white)](https://rksh.link/myonepost)
 
 ---
 
