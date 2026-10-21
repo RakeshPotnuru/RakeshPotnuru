@@ -5,11 +5,7 @@
 <h1 align="center">Hi <a href="https://itsrakesh.com"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, I'm Rakesh</h1>
 <h3 align="center">🌐 Building stuff ✍️ Technical Writer ✈️ Internet Explorer</h3>
 
-- 🌱 I’m currently learning **[Electron](https://www.electronjs.org)**
-
 - 👨‍💻 All of my projects are available [here](https://itsrakesh.com/projects)
-
-- 📝 I regularly write articles on my [blog](https://itsrakesh.com/blog)
 
 - 📫 How to reach me **rakesh@itsrakesh.com**
 
@@ -18,7 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://itsrakesh.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://rksh.link/x)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://rksh.link/linkedin)
-
+[![Pay @itsrakesh with UPI](https://withupi.com/badges/pay-with-upi-small.svg)](https://withupi.com/@itsrakesh?utm_source=badge&utm_medium=embed)
 ---
 
 ### 📜 Latest Blog Posts
@@ -35,9 +31,9 @@
 
 ### 📊 Stats
 
-<a href="https://itsrakesh.com">
+<!-- <a href="https://itsrakesh.com">
 <img src="https://github-readme-stats.vercel.app/api?username=RakeshPotnuru&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" >
-</a>
+</a> -->
 
 <a href="https://itsrakesh.com">
 <img src="https://github-streak.itsrakesh.com/?user=RakeshPotnuru&theme=github-dark&hide_border=true" alt="rakesh's github streak" width="48%" >
